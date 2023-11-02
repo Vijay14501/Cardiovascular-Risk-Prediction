@@ -18,7 +18,11 @@ Data Preprocessing :
 
 Exploratory data analysis(EDA) :
 
-EDA is a fundamental part of data analysis that helps in ensuring data quality, understanding the data, and generating insights. It serves as the basis for making informed decisions throughout the data analysis process
+Checked chances of getting Coronary Heart Disease
+
+Checked what is the likelihood of developing Coronary Heart Disease (CHD) over a ten-year period for males and females, and how do the percentages compare between the two genders
+
+Checked what is the percentage of smokers and non-smokers who develop CHD (Coronary Heart Disease)
 
 Supervise Machine learning algorithms and implementation :
 
